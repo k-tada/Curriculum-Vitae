@@ -70,6 +70,12 @@
 - Lint(ESLint, StyleLint)
 - Prettier
 
+### インフラ
+- AWS
+- Azure
+- Kubernetes
+- DockerCloud
+
 ## 強み
 - 現状に満足することなく常に最新の技術をキャッチアップし、業務に活かすことを考えています。
   - 直近のプロジェクトに対して行った業務改善例
