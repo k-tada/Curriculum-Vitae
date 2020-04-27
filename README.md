@@ -99,14 +99,18 @@
 
 ## 職務経歴
 
-### 2018/11 - 現在: 株式会社WithTravel
+### 2018/11 - 現在: ~株式会社WithTravel~ 株式会社atta
 
 #### 職務
 フロントエンドエンジニア
 
 #### 開発履歴
-- React/Reduxを使ったWebサービスのフロントエンド対応
-
+- React/Reduxを使ったWebサービスの開発
+- React(Hooksベース、Reduxは不使用）を使ったWebサービスの開発
+  - TypeScript + React(Hooks) + 以下のライブラリを用いた開発環境の導入
+    - ReactStorybook
+    - Linter(ESLint-typescript), Prettier
+    - Jest
 
 ### 2016/1 - 2018/10: 株式会社Nextremer
 
