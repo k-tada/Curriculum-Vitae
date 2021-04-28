@@ -106,11 +106,13 @@
 
 #### 開発履歴
 - React/Reduxを使ったWebサービスの開発
+  - ネットスーパーのフロントエンド構築
 - React(Hooksベース、Reduxは不使用）を使ったWebサービスの開発
   - TypeScript + React(Hooks) + 以下のライブラリを用いた開発環境の導入
     - ReactStorybook
     - Linter(ESLint-typescript), Prettier
     - Jest
+    - Prerender.io、AWS Lambda(SSR)との連携
 
 ### 2016/1 - 2018/10: 株式会社Nextremer
 
