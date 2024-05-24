@@ -25,7 +25,7 @@
 
 |プログラミング言語|フレームワーク|備考|
 |---|---|---|
-|Javascript<br/>TypeScript|フロントエンド：React・Redux・Redux-saga・Next.js、Vue・Vuex・Nuxt.js<br/>バックエンド：Node.js（Express・Koa）|直近8年ほど経験|
+|Javascript<br/>TypeScript|フロントエンド：React・Redux・Redux-saga・Next.js、<br/>Vue・Vuex・Nuxt.js<br/>バックエンド：Node.js（Express・Koa）|直近8年ほど経験|
 |Ruby|Ruby on Rails・Sinatra・Padrino|数年前にRoR2.3、Rails5でトータル3年ほど経験|
 |Java|Struts|数年前に2年ほど経験|
 |PHP|CodeIgniter・Zend・Fuel|数年前に2年ほど経験|
@@ -40,8 +40,10 @@
 - Moducks
 - Reselect
 - Recompose
+- Next.js
 - Vue
 - Vuex
+- Nuxt.js
 - Angular.js(1.4系)
 - Cordova
 
