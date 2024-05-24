@@ -8,6 +8,7 @@
 |GitHub|[k-tada](https://github.com/k-tada)|
 |Twitter|[@shuntxxxeve](https://twitter.com/shuntxxxeve)|
 |Qiita|[k_tada](https://qiita.com/k_tada)|
+|Zenn|[k_tada](https://zenn.dev/k_tada)|
 |LinkedIn|[k-tada](https://www.linkedin.com/in/k-tada/)|
 |StackShare|[k-tada](https://stackshare.io/k-tada/my-stack)|
 
@@ -88,7 +89,7 @@
 
 ## 強み
 - 現状に満足することなく常に最新の技術をキャッチアップし、業務に活かすことを考えています。
-  - 直近のプロジェクトに対して行った業務改善例
+  - プロジェクトに対して行った業務改善例
     - 当時最先端だったReact/Reduxを導入
     - 当初はRedux-thunkを使用していたが可読性、業務効率を考慮してredux-sagaを導入
     - redux-sagaのさらなる可読性、コーディング効率向上の為にDucksパターンを提案し、Moducks、Reselectを導入
@@ -112,6 +113,7 @@
 - React/Reduxを使ったWebサービスの開発
   - Webサービス開発、保守業務
 - React（Hooksベース)/Recoilを使ったWebコンポーネントライブラリの開発
+- Vuex + Nuxt.jsを使ったWebサービスの開発
 
 ### 2018/11 - 2023/03: ~株式会社WithTravel~ 株式会社atta
 
